@@ -28,7 +28,7 @@ This project is an assignment submission for Assignment 4. The project implement
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository: https://github.com/ernareskindirov/assignment4-web
 2. Navigate to the project directory: cd assignment4-web
 3. Install dependencies: npm install axios express mongoose
 ## Usage
